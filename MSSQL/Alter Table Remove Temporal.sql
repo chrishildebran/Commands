@@ -1,0 +1,6 @@
+ALTER TABLE FabItemExports.WriteLibTypes  SET (SYSTEM_VERSIONING = OFF);
+
+ALTER TABLE FabItemExports.WriteLibTypes 
+DROP PERIOD FOR SYSTEM_TIME;
+
+ 
